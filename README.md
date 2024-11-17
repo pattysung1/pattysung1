@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi!🖖 My name is Patty Sung! 
 
-#### I am a **CS student** @ Virginia Tech｜*Software Engineer*｜Seeking 2024 summer ***SWE*** intern
+#### I am a **CS student** @ Virginia Tech｜*Software Engineer*｜Seeking  **Full-Time*** swe
 
 #### 🌟TECH STACK: Java, Python, JavaScript, SQL, React, Kotlin, Git, GitHub, Linux, Jenkins, Docker, Ui-Path
 
