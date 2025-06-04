@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi!🖖 My name is Patty Sung! 
 
-#### I am a **CS student** @ Virginia Tech｜*Software Engineer*｜Seeking  **Full-Time*** swe
+#### *Software Engineer*｜Computer Science @ Virginia Tech
 
-#### 🌟TECH STACK: Java, Python, JavaScript, SQL, React, Kotlin, Git, GitHub, Linux, Jenkins, Docker, Ui-Path
+#### 🌟TECH STACK: Java, Python, JavaScript, SQL, React, Machine Learning, Git, GitHub, Linux, Jenkins, Docker, Ui-Path
 
 #### 🌟My personal website: https://pattysung1.github.io/about/
 
